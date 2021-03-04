@@ -24,6 +24,16 @@ The font should be easy to use in multiple contexts, and easy to modify. In this
 
 A sign will be made of strokes (technically, `svg:path`). Only one line-width will be used for the entire font (we might discuss this decision somehow).
 
+#### Font style ?
+
+This is somehow a problem. I don't believe too much in a *neutral* hieroglyphic font which would fit all time-period. At the same time, I understand that some users of JSesh find some of the current signs too peculiar. Some font designers, and in particular the earliest ones, with the Theinhardt font, chose Saite examples, which are a relatively good middle ground. In a completely unscientific attitude, I would tend to choose New Kingdom signs as a basis however. In any case, for the **main** font, the signs characteristics should be chosen in order to be as *typical* as possible.
+
+It also means that taking an actual glyph occurrence as the basis for drawing a sign is possible, but that the final font signs will probably be somehow artificial, with irrelevant details *removed* from the drawing.
+
+One might also consider providing secondary fonts, more rooted in a time-frame (old/middle/new-kingdom, late-period, Ptolemaic and Roman) ;
+They would be stored in different folders.
+
+
 ### (Future) Content
 
 As this font is currently supposed to be used by JSesh, MdC codes will be used to name the signs. The font will include :
