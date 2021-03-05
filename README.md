@@ -68,5 +68,5 @@ Now, there are also *font-related* problems. A very detailled sign rendering mig
 
 I start from a *fac-simile* I have made from KV 17:
 
-![A1 fac simile](facsimile/kv_17/rosmorduc_1/A1_KV17_Room J EW.svg)
+![A1 fac simile](./facsimile/kv17/rosmorduc_1/A1_KV17_Room J EW.svg)
 
