@@ -68,5 +68,18 @@ Now, there are also *font-related* problems. A very detailled sign rendering mig
 
 I start from a *fac-simile* I have made from KV 17:
 
-![A1 fac simile](./facsimile/kv17/rosmorduc_1/A1_KV17_Room J EW.svg)
+![A1 fac simile](https://raw.githubusercontent.com/rosmord/sethy_font_project/main/facsimile/kv17/rosmorduc_1/A1_KV17_Room%20J%20EW.svg)
+
+Now, there are a number of questions:
+
+- the way the eye is drawn is interesting. Almost "manga"-like. however, it might be a bit too peculiar for a font;
+- the detailled rendering of the apron is not useful in a font, and we might even end up on discussions about sign variants with diffenrent kinds of aprons. So it might be better to limit the details.
+- the actual, final sign will have thicker lines. How will they behave?
+
+I'm experimenting with the current eye shape, anyway. I may end up changing it. You see the result below. I have made a streamlined sign drawing, cleaning up a bit the existing sign, and 
+tested it with various stroke widths. Among the changes, note the eyeball, and the hear.
+
+I think that for a font, the sizes of both hands should probably be the same. Another question might also be the hand gestures. There are variations in A1 (but this brings us to my [post about sign encoding](https://jsesh.qenherkhopeshef.org/fr/news/news20201125)).
+
+![A1 proposal](https://raw.githubusercontent.com/rosmord/sethy_font_project/main/facsimile/kv17/rosmorduc_1/A1.svg)
 
