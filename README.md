@@ -1,4 +1,4 @@
-# hieroglyphic_font
+# Sethy Creative Common Font
 A (still preliminary) project for an opensource hieroglyphic font
 
 ## LICENSE
@@ -48,4 +48,25 @@ As this font is currently supposed to be used by JSesh, MdC codes will be used t
 - a folder containing non-standard signs (using the extension mechanism of JSesh, i.e. user personnal codes).
 - maybe a bit of software to create a "normal" font from it, in particular, a Unicode-compatible font (some of this software already exists in JSesh code).
 
+
+## Workflow and questions
+
+I'm currently looking for a style, and trying to make my mind on a number of problems.
+
+Basically, drawing signs might involve two approaches:
+
+- drawing a sign from a facsimile;
+- given a sign description, build a reasonable *artificial* rendering of the sign.
+
+For a font, the second attitude can't be avoided. If you collect random signs from various sources, and use facsimile, you will end up with a weird looking collection of signs you won't be able to mix.
+
+So, at some point, existing signs will be the source for *at least* some parts of new signs. Which doesn't preclude the need to build a good documentation for the signs.
+
+Now, there are also *font-related* problems. A very detailled sign rendering might be fine, but it will probably render poorly in an actual font.
+
+### Case Study A : A1 sign
+
+I start from a *fac-simile* I have made from KV 17:
+
+![A1 fac simile](facsimile/kv_17/rosmorduc_1/A1_KV17_Room J EW.svg)
 
