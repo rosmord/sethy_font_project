@@ -1,6 +1,12 @@
 # hieroglyphic_font
 A (still preliminary) project for an opensource hieroglyphic font
 
+## LICENSE
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+If you decide to contribute to this project, you need to agree with the proposed license.
+
 ## Need for a generic font
 
 JSesh has a quite exhaustive and nice looking (regarding Hieroglyphica-2000) font now, but I feel a secondary font is needed for a number of purposes:
