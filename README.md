@@ -32,7 +32,7 @@ A sign will be made of strokes (technically, `svg:path`). Only one line-width wi
 
 #### Font style ?
 
-This is somehow a problem. I don't believe too much in a *neutral* hieroglyphic font which would fit all time-period. At the same time, I understand that some users of JSesh find some of the current signs too peculiar. Some font designers, and in particular the earliest ones, with the Theinhardt font, chose Saite examples, which are a relatively good middle ground. In a completely unscientific attitude, I would tend to choose New Kingdom signs as a basis however. In any case, for the **main** font, the signs characteristics should be chosen in order to be as *typical* as possible.
+This is somehow a problem. I don't believe too much in a *neutral* hieroglyphic font which would fit all time-period. At the same time, I understand that some users of JSesh find some of the current signs too peculiar. Some font designers, and in particular the earliest ones, with the Theinhardt font, chose Saite examples, which are a relatively good middle ground. In a completely unscientific attitude, I would tend to choose New Kingdom signs as a basis. In any case, for the **main** font, the signs characteristics should be chosen in order to be as *typical* as possible.
 
 It also means that taking an actual glyph occurrence as the basis for drawing a sign is possible, but that the final font signs will probably be somehow artificial, with irrelevant details *removed* from the drawing.
 
