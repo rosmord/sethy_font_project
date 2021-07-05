@@ -9,7 +9,7 @@ If you decide to contribute to this project, you need to agree with the proposed
 
 ## Need for a generic font
 
-JSesh has a quite exhaustive and nice looking (regarding Hieroglyphica-2000) font now, but I feel a secondary font is needed for a number of purposes:
+JSesh has a quite exhaustive and nice looking Hieroglyphica-2000 compatible font now, but I feel a secondary font is needed for a number of purposes:
 
 - the design decision for JSesh fonts, with filled areas, and variable-width lines, is typographically richer, but at the same time, it's difficult to design new signs, and even more difficult to ensure a graphical unity ;
 - the current status of JSesh fonts makes it possible to use them for publishing purposes ; however, software writers might prefer a font with a clear license.
