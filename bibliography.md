@@ -26,6 +26,8 @@ Printed sources about hieroglyphs. When *legally* accessible in a PDF form, a li
 
 ## Webography
 
+
+
 ### Databases about hieroglyphs
 Sources which are specifically dedicated to hieroglyphs.
 
