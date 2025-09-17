@@ -37,4 +37,4 @@ Sources which are specifically dedicated to hieroglyphs.
 Online monument publications, featuring usable iconography.
 
 - [Karnak Project](http://www.cfeetk.cnrs.fr/karnak)
-- [Factumfoundation's coverage of Sethy the 1st's tomb](https://www.factumfoundation.org/seti-i-viewers/)
+- [Factumfoundation's coverage of Sethy the 1st's tomb](https://www.factumfoundation.org/seti-i-viewers/) (nice!)
